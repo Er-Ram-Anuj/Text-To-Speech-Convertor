@@ -69,7 +69,7 @@ select{
     /* to hide drop down icon */
     appearance: none;
     /* add own icon  */
-    background-image:url(img/pngwing.com.png);
+    background-image:url(pngwing.com.png);
     color: rgb(244, 7, 114);
     background-repeat: no-repeat;
     background-size: 20px;
